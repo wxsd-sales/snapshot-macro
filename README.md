@@ -19,8 +19,7 @@ Creating a Web App which gets the Camera media device official Web APIs is then 
 
 ### Flow Diagram
 
-
-![image](https://github.com/wxsd-sales/snapshot-macro/assets/21026209/c0a3875e-5849-4e35-a95d-d4d85cbf2c82)
+![image](https://github.com/wxsd-sales/snapshot-macro/assets/21026209/5daad14a-ff19-4337-86b2-79bc4394d3c9)
 
 
 ## Setup

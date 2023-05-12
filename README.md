@@ -1,11 +1,10 @@
 # Snapshot Macro
 This Webex Device macro launches a web app which takes a snapshot form the devices camera and sends to a Webex Message to a space. It demonstrates  how to grant camera access to a website domain and automatically  capture a image snapshot using the WebEngines Media APIs.
 
-### Captured from the device
-![image](https://github.com/wxsd-sales/snapshot-macro/assets/21026209/9b0bf3f0-28f2-4f75-bb39-54a58b1dab56)
+<p align="center">
+  <img width="960" alt="Slide2" src="https://github.com/wxsd-sales/snapshot-macro/assets/21026209/eb43cc76-0531-459e-822d-3601d53c4a92">
+</p>
 
-### Sent as a Webex Message
-<img width="426" alt="image" src="https://github.com/wxsd-sales/snapshot-macro/assets/21026209/7d3c69e3-d5bc-4cbc-9f4d-94adfafb6b18">
 
 ## Overview
 
